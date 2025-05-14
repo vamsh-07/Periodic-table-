@@ -1,0 +1,21 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "atomicMass": "1.008",
+    "group": 1,
+    "period": 1,
+    "category": "Nonmetal"
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "atomicMass": "4.0026",
+    "group": 18,
+    "period": 1,
+    "category": "Noble gas"
+  }
+  // Add more elements as needed
+]
