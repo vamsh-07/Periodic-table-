@@ -1,0 +1,14 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView android:id="@+id/tvName" android:textSize="24sp"/>
+    <TextView android:id="@+id/tvSymbol" android:textSize="20sp"/>
+    <TextView android:id="@+id/tvAtomicNumber"/>
+    <TextView android:id="@+id/tvAtomicMass"/>
+    <TextView android:id="@+id/tvGroup"/>
+    <TextView android:id="@+id/tvPeriod"/>
+    <TextView android:id="@+id/tvCategory"/>
+</LinearLayout>
